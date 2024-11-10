@@ -1,7 +1,7 @@
 +++
 title = 'Crypto firms including Robinhood, Kraken launch global stablecoin network'
 date = 2024-11-04T13:20:06+01:00
-draft = true
+draft = false
 +++
 A consortium of financial technology and cryptocurrency companies, including Robinhood, Kraken, and Galaxy Digital, has launched a joint stablecoin called USDG (Global Dollar Network), pegged to the US dollar. The aim is to accelerate the adoption of stablecoins worldwide and promote an asset that provides proportionate economic benefits to its partners. Stablecoins are digital tokens designed to maintain a constant value, often used for converting crypto tokens into traditional currencies due to their stability.
 

@@ -2,7 +2,7 @@
 title = 'Introduction'
 date = 2024-11-10T11:59:45+01:00
 weight = 1
-draft = true
+draft = false
 +++
 
 **Why DigitalWaehrung.ch Exists**
