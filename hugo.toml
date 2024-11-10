@@ -1,6 +1,6 @@
 baseURL = 'https://www.digitalwaehrung.ch/'
 languageCode = 'de_CH'
-title = 'DigitalWaehrung.ch - Home of Digital Currencies'
+title = 'DigitalWaehrung.ch - Your Comprehensive Guide to Stablecoins'
 
 [module]
   [[module.imports]]
