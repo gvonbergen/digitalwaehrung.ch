@@ -1,45 +1,45 @@
 +++
-title = 'OCC legt Vorschlag vor: Stablecoin-Yield-Verbot und Auswirkungen auf den CLARITY Act'
+title = 'OCC Proposes Stablecoin Yield Ban, Clearing Path for CLARITY Act'
 date = 2026-02-26T19:40:00+01:00
 draft = false
 +++
 
-Das US-Büro des Währungskontrolleurs (OCC) hat einen umfassenden 376-seitigen Vorschlag zur Umsetzung des GENIUS Act vorgelegt, der die langjährige Debatte um Stablecoin-Yield endgültig klären könnte.
+The US Office of the Comptroller of the Currency (OCC) has released a comprehensive 376-page proposal to implement the GENIUS Act, potentially settling the long-standing debate over stablecoin yields.
 
-## Der Kern des Vorschlags
+## Core of the Proposal
 
-Der Vorschlag sieht vor, dass unter Aufsicht stehende Unternehmen **keine Form von Zinsen oder Yield** zahlen dürfen – weder in Bar, Token noch anderer Form – "ausschliesslich im Zusammenhang mit dem Halten, Nutzen oder Behalten" eines Payment Stablecoins.
+The proposal stipulates that supervised entities **cannot pay any form of interest or yield**—whether in cash, tokens, or other consideration—"solely in connection with the holding, use, or retention" of a payment stablecoin.
 
-Diese Regelung basiert auf Abschnitt 4(a)(11) des GENIUS Act, der im Juli 2025 verabschiedet wurde und einen bundesweiten Rahmen für Payment Stablecoins schuf.
+This regulation is based on Section 4(a)(11) of the GENIUS Act, enacted in July 2025, which established a federal framework for payment stablecoins.
 
-## Schutz vor Umgehungsversuchen
+## Preventing Circumvention
 
-Der OCC-Vorschlag geht einen Schritt weiter und führt eine **widerlegbare Vermutung** ein:
+The OCC proposal goes further by introducing a **rebuttable presumption**:
 
-> Wenn ein Emittent einen Vertrag hat, um Yield an eine verbundene oder "verwandte Drittpartei" zu zahlen, und diese Entität dann Yield an die Halter des Stablecoins zahlt, wird vermutet, dass der Emittent gegen das Verbot verstösst.
+> If an issuer has an arrangement to pay yield to an affiliate or "related third party," and that entity then pays yield to holders of the stablecoin, the issuer is presumed to be violating the ban.
 
-Emittenten können diese Vermutung mit schriftlichen Unterlagen widerlegen, aber die OCC betont die "enge Verbindung" zwischen Emittentenzahlungen und Endhalter-Yield.
+Issuers can rebut this presumption with written materials, but the OCC emphasizes the "close nexus" between issuer payments and end-holder yield.
 
-## Ausnahmen im Detail
+## Key Exceptions
 
-Der Vorschlag enthält zwei explizite Ausnahmen:
+The proposal includes two explicit carve-outs:
 
-1. **Händlerrabatte:** Es ist nicht beabsichtigt, Händlern zu verbieten, unabhängig Rabatte für die Nutzung von Stablecoins anzubieten.
+1. **Merchant Discounts:** The rule is not intended to prevent merchants from independently offering discounts for using payment stablecoins.
 
-2. **White-Label-Partnerschaften:** Emittenten dürfen weiterhin Gewinne aus dem Stablecoin mit einer nicht verbundenen Partnerin in einer White-Label-Vereinbarung teilen.
+2. **White-Label Partnerships:** Issuers may still share profits from the stablecoin with a non-affiliate partner in a white-label arrangement.
 
-## Auswirkungen auf den CLARITY Act
+## Implications for the CLARITY Act
 
-Die Rechtsanwältin Thania Charmani von Winston & Strawn kommentierte auf X, dass der OCC-Vorschlag versuche, "die Debatte über Stablecoin-Yield durch Regelsetzung zu klären" und möglicherweise den Weg für den Digital Asset Market Clarity Act of 2025 (CLARITY) freimache, "ohne diese Bestimmung weiterzuverfolgen."
+Attorney Thania Charmani of Winston & Strawn commented on X that the OCC proposal aims to "resolve the debate on stablecoin yield through rulemaking," potentially clearing the way for the Digital Asset Market Clarity Act of 2025 (CLARITY) to "proceed without that provision."
 
-Diese Entwicklung hat direkte Implikationen für Unternehmen wie **Coinbase**, die sich dafür eingesetzt haben, Yield auf Stablecoin-Guthaben anbieten zu dürfen, während sie innerhalb eines vollständig regulierten US-Rahmens operieren.
+This development has direct implications for companies like **Coinbase**, which have advocated for the ability to offer yield on stablecoin balances while operating within a fully regulated US framework.
 
-## Fazit
+## Conclusion
 
-Mit diesem Vorschlag zieht die OCC eine klare Grenze: **Stablecoin-Yield und GENIUS-konforme, OCC-überwachte Stablecoins werden auf gegenüberliegenden Seiten einer regulatorischen Linie platziert.**
+With this proposal, the OCC draws a clear line: **Stablecoin yield and GENIUS-compliant, OCC-supervised stablecoins are being placed on opposite sides of a regulatory boundary.**
 
-Der Vorschlag liegt für **60 Tage** zur öffentlichen Kommentierung vor. Die Branche wird genau beobachten, ob diese Regelung endgültig umgesetzt wird und wie sich dies auf die Stablecoin-Landschaft in den USA auswirken wird.
+The proposal is open for **60 days** of public comment. The industry will closely watch whether this regulation is finalized and how it will impact the stablecoin landscape in the United States.
 
 ---
 
-*Quelle: Cointelegraph, OCC-Dokumentation*
+*Source: Cointelegraph, OCC Documentation*
