@@ -9,8 +9,6 @@ tags:
   - banking
 ---
 
-# Treasury Proposal Defines U.S. Payment Stablecoin Rules
-
 The U.S. Treasury has proposed rules implementing Section 3 of the GENIUS Act, setting out who may issue, offer, or sell payment stablecoins in the United States. The draft defines domestic and foreign issuers, limits access by U.S. persons to certain foreign payment stablecoins, and allows exemptions and safe harbors. Comments are due by October 19, 2026. The proposal is a key step in turning the GENIUS Act into a workable regulatory framework as stablecoin use grows.
 
 ## A Federal Framework for Issuers
