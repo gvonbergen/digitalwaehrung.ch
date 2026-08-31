@@ -1,5 +1,5 @@
 ---
-title: "Digital-Currency News Digest: Stablecoins, CBDCs, and Bank Payment Infrastructure"
+title: "Digital-Currency News Digest 31th August 2026"
 date: 2026-08-31
 description: "The digest covers new U.S. Treasury GENIUS Act rules, bank-led stablecoin and tokenized-deposit initiatives in the United States, Japan, and Russia, and CBDC moves involving India, Delhi, and BRICS. It also tracks stablecoin market liquidity, card spending, Nium payouts, Hecto Financial, and usage trends in Argentina. Tether and the BIS exchange views on reserve-backed stablecoins versus tokenized deposits, while U.S. Treasury funding implications and Missouri rulemaking opinions add context."
 tags:
