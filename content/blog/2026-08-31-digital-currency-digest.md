@@ -11,8 +11,6 @@ tags:
   - "GENIUS Act"
 ---
 
-# Stablecoins Enter the Regulatory Mainstream: Banks, CBDCs, and the Fight Over Digital Money
-
 The most significant change in digital money is not simply that stablecoins are growing, but that they are being integrated into the regulated payments system. U.S. regulators are moving to define who may issue payment stablecoins, major banks are preparing their own token and settlement infrastructure, central banks are testing CBDC interoperability, and payment networks are expanding stablecoin acceptance. The result is a market in which stablecoins are no longer just a crypto asset class. They are becoming a contested layer of monetary infrastructure, with implications for bank deposits, government debt, cross-border payments, and financial stability.
 
 ## A U.S. rulebook is taking shape
